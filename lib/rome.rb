@@ -1,6 +1,6 @@
 require "rubygems"
 require "lighthouse-api"
-require "google_chart"
+# require "google_chart"
 require File.dirname(__FILE__) + "/rome/authentication_helper"
 require File.dirname(__FILE__) + "/rome/pagination_helper"
 require File.dirname(__FILE__) + "/rome/account"
